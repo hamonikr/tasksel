@@ -1,0 +1,7 @@
+Task: cloud-image
+Section: server
+Description: Ubuntu Cloud Image (instance)
+ Packages included in Ubuntu Cloud images.
+Key:
+ cloud-init
+Packages: task-fields

@@ -1,0 +1,10 @@
+Task: ubuntu-mate-live
+Section: user
+Description: Ubuntu MATE Live CD
+ This task provides the extra packages installed on the Ubuntu MATE Live CD. It is neither useful nor recommended to install this task in other environments.
+Relevance: 2
+Key:
+ ubiquity-frontend-gtk
+Test-new-install: skip show
+Seeds: live-common
+Packages: task-fields

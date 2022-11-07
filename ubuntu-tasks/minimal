@@ -1,0 +1,8 @@
+Task: minimal
+Section: user
+Relevance: 9
+Description: Minimal base system
+ This task installs the core of an Ubuntu-based system.
+Test-new-install: install skip
+Seeds: required
+Packages: task-fields

@@ -1,0 +1,8 @@
+Task: ubuntustudio-video
+Section: user
+Description: Video creation and editing suite
+ Video creation and editing suite
+Key:
+ ubuntustudio-video
+Seeds: pre-seeds
+Packages: task-fields

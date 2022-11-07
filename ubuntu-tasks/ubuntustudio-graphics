@@ -1,0 +1,7 @@
+Task: ubuntustudio-graphics
+Section: user
+Description: 2D/3D creation and editing suite
+ 2D/3D creation and editing suite
+Key:
+ ubuntustudio-graphics
+Packages: task-fields

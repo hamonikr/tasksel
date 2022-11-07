@@ -1,0 +1,34 @@
+Source: tasksel
+Section: admin
+Priority: optional
+Maintainer: Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>
+XSBC-Original-Maintainer: Debian Install System Team <debian-boot@lists.debian.org>
+Uploaders: Otavio Salvador <otavio@debian.org>, Christian Perrier <bubulle@debian.org>
+Standards-Version: 3.9.5
+Build-Depends: po-debconf, debhelper (>= 9), gettext, dpkg-dev (>= 1.9.0)
+XS-Debian-Vcs-Git: git://git.debian.org/git/tasksel/tasksel.git
+Vcs-Bzr: http://bazaar.launchpad.net/~ubuntu-core-dev/tasksel/ubuntu
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=tasksel/tasksel.git
+
+Package: tasksel
+Section: admin
+Priority: important
+Architecture: all
+Pre-Depends: debconf (>= 1.5.34) | cdebconf (>= 0.106)
+Depends: ${misc:Depends}, liblocale-gettext-perl, apt, tasksel-data, perl-base (>= 5.14.0-1)
+Conflicts: debconf (<< 1.4.27), base-config (<< 2.32)
+Description: tool for selecting tasks for installation on Debian systems
+ This package provides 'tasksel', a simple interface for users who
+ want to configure their system to perform a specific task.
+
+Package: tasksel-data
+Section: admin
+Priority: important
+Architecture: all
+Depends: ${misc:Depends}, tasksel
+Recommends: laptop-detect
+Conflicts: tasksel (<< 2.67)
+Description: official tasks used for installation of Debian systems
+ This package contains data about the standard tasks available on a Debian
+ system.
+

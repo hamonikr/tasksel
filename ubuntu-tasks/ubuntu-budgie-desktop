@@ -1,0 +1,8 @@
+Task: ubuntu-budgie-desktop
+Section: user
+Description: Ubuntu Budgie desktop
+ This task provides the Ubuntu Budgie desktop environment.
+Key:
+ ubuntu-budgie-desktop
+Seeds: desktop-common
+Packages: task-fields

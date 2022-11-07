@@ -1,0 +1,8 @@
+Task: ubuntu-desktop-minimal
+Section: user
+Description: Ubuntu minimal desktop
+ This task provides the Ubuntu desktop minimal environment.
+Key:
+ ubuntu-desktop-minimal
+Seeds: desktop-common
+Packages: task-fields

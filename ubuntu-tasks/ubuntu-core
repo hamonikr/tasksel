@@ -1,0 +1,8 @@
+Task: ubuntu-core
+Section: user
+Description: Ubuntu Core Next
+ This task provides system image based ubuntu core
+Key:
+ ubuntu-core
+Metapackage: ubuntu-core
+Packages: task-fields

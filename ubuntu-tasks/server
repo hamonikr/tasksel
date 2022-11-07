@@ -1,0 +1,8 @@
+Task: server
+Section: server
+Description: Basic Ubuntu server
+ This task provides the Ubuntu server environment.
+Relevance: 8
+Key:
+ screen
+Packages: task-fields

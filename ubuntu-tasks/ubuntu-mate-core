@@ -1,0 +1,8 @@
+Task: ubuntu-mate-core
+Section: user
+Description: Ubuntu MATE minimal
+ This task provides minimal packages for Ubuntu MATE desktop environment.
+Key:
+ ubuntu-mate-core
+Seeds: desktop-common
+Packages: task-fields

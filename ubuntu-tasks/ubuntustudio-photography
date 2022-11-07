@@ -1,0 +1,7 @@
+Task: ubuntustudio-photography
+Section: user
+Description: Photograph touchup and editing suite
+ Photograph touchup and editing suite
+Key:
+ ubuntustudio-photography
+Packages: task-fields

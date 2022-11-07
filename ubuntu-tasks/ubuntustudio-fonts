@@ -1,0 +1,7 @@
+Task: ubuntustudio-fonts
+Section: user
+Description: Large selection of font packages
+ Large selection of font packages
+Key:
+ ubuntustudio-fonts
+Packages: task-fields

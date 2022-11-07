@@ -1,0 +1,8 @@
+Task: hamonikr-desktop-full
+Section: user
+Description: HamoniKR desktop
+ This task provides the HamoniKR desktop environment.
+Key:
+ hamonikr-desktop-full
+Seeds: desktop-common
+Packages: task-fields hamonikr-desktop-full

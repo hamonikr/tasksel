@@ -1,0 +1,8 @@
+Task: kubuntu-desktop
+Section: user
+Description: Kubuntu desktop
+ The Kubuntu environment using KDE Plasma Desktop
+Key:
+ kubuntu-desktop
+Seeds: desktop-common
+Packages: task-fields

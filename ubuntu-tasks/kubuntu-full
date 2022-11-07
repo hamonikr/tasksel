@@ -1,0 +1,8 @@
+Task: kubuntu-full
+Section: user
+Description: Kubuntu full
+ This task provides a Kubuntu full desktop environment.
+Key:
+ kubuntu-full
+Seeds: desktop
+Packages: task-fields

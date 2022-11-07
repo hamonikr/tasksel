@@ -1,0 +1,8 @@
+Task: ubuntustudio-desktop-core
+Section: user
+Description: Ubuntu Studio minimal DE installation
+ This task provides minimal packages for the Ubuntu Studio desktop environment.
+Key:
+ ubuntustudio-desktop-core
+Seeds: desktop-common
+Packages: task-fields

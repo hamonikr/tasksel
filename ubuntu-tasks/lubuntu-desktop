@@ -1,0 +1,9 @@
+Task: lubuntu-desktop
+Section: user
+Description: Lubuntu Desktop
+ This task provides the Lubuntu (Ubuntu LXQt environment).
+Seeds: desktop-common
+Key:
+ lubuntu-desktop
+Metapackage: lubuntu-desktop
+Packages: task-fields

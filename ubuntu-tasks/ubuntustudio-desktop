@@ -1,0 +1,8 @@
+Task: ubuntustudio-desktop
+Section: user
+Description: Ubuntu Studio desktop
+ This task provides the Ubuntu Studio desktop environment.
+Key:
+ ubuntustudio-desktop
+Seeds: desktop-common desktop-core
+Packages: task-fields

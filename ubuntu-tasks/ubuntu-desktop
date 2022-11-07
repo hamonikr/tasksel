@@ -1,0 +1,8 @@
+Task: ubuntu-desktop
+Section: user
+Description: Ubuntu desktop
+ This task provides the Ubuntu desktop environment.
+Key:
+ ubuntu-desktop
+Seeds: desktop-minimal desktop-common
+Packages: task-fields

@@ -1,0 +1,8 @@
+Task: openssh-server
+Section: server
+Description: OpenSSH server
+ Selects packages needed for an OpenSSH server.
+Relevance: 7
+Key:
+ openssh-server
+Packages: task-fields

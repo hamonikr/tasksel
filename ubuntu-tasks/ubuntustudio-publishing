@@ -1,0 +1,7 @@
+Task: ubuntustudio-publishing
+Section: user
+Description: Publishing applications
+ Publishing applications
+Key:
+ ubuntustudio-publishing
+Packages: task-fields

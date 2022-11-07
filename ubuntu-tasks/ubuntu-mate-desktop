@@ -1,0 +1,8 @@
+Task: ubuntu-mate-desktop
+Section: user
+Description: Ubuntu MATE desktop
+ This task provides the Ubuntu MATE desktop environment.
+Key:
+ ubuntu-mate-desktop
+Seeds: desktop-common core
+Packages: task-fields

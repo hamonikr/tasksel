@@ -1,0 +1,8 @@
+Task: ubuntustudio-audio
+Section: user
+Description: Audio recording and editing suite
+ Audio recording and editing suite
+Key:
+ ubuntustudio-audio
+Seeds: pre-seeds
+Packages: task-fields

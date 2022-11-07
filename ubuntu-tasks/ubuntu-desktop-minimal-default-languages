@@ -1,0 +1,15 @@
+Task: ubuntu-desktop-minimal-default-languages
+Section: user
+Description: Ubuntu minimal desktop default languages
+ This task provides the Ubuntu minimal desktop default languages.
+Key:
+ language-pack-en
+ language-pack-es
+ language-pack-de
+ language-pack-fr
+ language-pack-it
+ language-pack-pt
+ language-pack-ru
+ language-pack-zh-hans
+Seeds: desktop-minimal-en desktop-minimal-es desktop-minimal-de desktop-minimal-fr desktop-minimal-it desktop-minimal-pt desktop-minimal-ru desktop-minimal-zh
+Packages: task-fields

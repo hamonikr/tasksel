@@ -1,0 +1,8 @@
+Task: xubuntu-core
+Section: user
+Description: Xubuntu minimal installation
+ This task provides minimal packages for Xubuntu desktop environment.
+Key:
+ xubuntu-core
+Seeds: desktop-common
+Packages: task-fields
