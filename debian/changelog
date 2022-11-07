@@ -1,3 +1,10 @@
+tasksel (3.34ubuntu16+hamonikr3) taebaek; urgency=medium
+
+  * Update hamonikr-desktop task
+   - Changd name as hamonikr-desktop-minimal
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 07 Nov 2022 20:45:52 +0900
+
 tasksel (3.34ubuntu16+hamonikr1) taebaek; urgency=medium
 
   * Release for HamoniKR 6.0

@@ -14,6 +14,15 @@ Key:
 Packages: task-fields
 Section: server
 
+Task: hamonikr-desktop
+Description: HamoniKR desktop
+ This task provides the HamoniKR desktop environment.
+Key: 
+ hamonikr-desktop
+Packages: list 
+ hamonikr-desktop-minimal
+Section: user
+
 Task: hamonikr-desktop-full
 Description: HamoniKR desktop
  This task provides the HamoniKR desktop environment.
