@@ -1,9 +1,9 @@
 tasksel (3.34ubuntu16+hamonikr1) taebaek; urgency=medium
 
-  [Kevin Kim]
-  * Add tasksel as hamonikr-desktop-full
+  * Release for HamoniKR 6.0
+   - Add hamonikr-desktop-full
 
- -- HamoniKR <pkg@hamonikr.org>  Mon, 07 Nov 2022 11:01:31 +0900
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 07 Nov 2022 16:11:22 +0900
 
 tasksel (3.34ubuntu16) disco; urgency=medium
 

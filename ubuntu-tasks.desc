@@ -19,7 +19,8 @@ Description: HamoniKR desktop
  This task provides the HamoniKR desktop environment.
 Key: 
  hamonikr-desktop-full
-Packages: task-fields
+Packages: list 
+ hamonikr-desktop-full
 Section: user
 
 Task: kubuntu-desktop
