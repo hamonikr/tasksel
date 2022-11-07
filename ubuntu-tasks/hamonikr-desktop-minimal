@@ -1,8 +1,8 @@
-Task: hamonikr-desktop
+Task: hamonikr-desktop-minimal
 Section: user
 Description: HamoniKR desktop
  This task provides the HamoniKR desktop environment.
 Key:
- hamonikr-desktop
+ hamonikr-desktop-minimal
 Packages: list 
  hamonikr-desktop-minimal

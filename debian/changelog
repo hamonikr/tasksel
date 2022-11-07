@@ -1,3 +1,10 @@
+tasksel (3.34ubuntu16+hamonikr4) taebaek; urgency=medium
+
+  * Update hamonikr-desktop-minimal
+   - Changd name as hamonikr-desktop-minimal
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 07 Nov 2022 21:03:22 +0900
+
 tasksel (3.34ubuntu16+hamonikr3) taebaek; urgency=medium
 
   * Update hamonikr-desktop task
